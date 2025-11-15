@@ -1,4 +1,4 @@
-# Finetunning-with-Unsloth [Datasets]
+# ee-ugp-resources
 
 This repository contains datasets prepared for fine-tuning language and vision models with [Unsloth](https://github.com/unslothai/unsloth).  
 The datasets are agriculture-focused, covering crop production, crop recommendation, and farmer query-response pairs.
